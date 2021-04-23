@@ -1,2 +1,5 @@
 ^code\.cov\.test\.Rproj$
 ^\.Rproj\.user$
+^codecov\.yml$
+^README\.Rmd$
+^\.github$
